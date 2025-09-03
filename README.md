@@ -17,3 +17,10 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+
+2. Run the app
+
+   ```
+   $ blank-app-d4jgjtij71r.streamlit.app
+   ```
